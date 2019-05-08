@@ -1,0 +1,71 @@
+#about{
+	background-image: url(https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiO5tbm0YviAhUdknAKHdIEDmUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcool%2520wallpaper%2F&psig=AOvVaw3d5iTaBkagr1473vG2Dx73&ust=1557394779480106) no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#services{
+	text-align: center;
+	background: silver;
+}
+
+
+.font{
+	padding: 20px;
+
+}
+
+#services h2{padding-bottom: 20px;
+
+}
+
+
+
+
+#blog{
+position: relative;
+text-align: center;
+}
+
+
+.image-box{
+	width: 50%;
+	
+
+
+}
+.image{
+	display: block;
+	width: 90%;
+
+}
+
+
+.detail{
+	width: 50%;
+	float: right;
+	position: absolute;
+	top: 2%;
+	right: 0;
+
+
+}
+
+
+.Custom{
+	margin-top: 50px;
+	margin-left: 60px;
+}
